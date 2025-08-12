@@ -6,7 +6,7 @@ body {
 
 footer {
     background-color: black;
-    color: white
+    color: white bottom: 0;
     bottom: 0;
     position: fixed;
     width: 100%;
@@ -14,8 +14,8 @@ footer {
 
 }
 
-footer p{
-    text-align: center ;
+footer p {
+    text-align: center;
     font-size: 0.6rem;
     margin-top: 0, 5rem;
 }
