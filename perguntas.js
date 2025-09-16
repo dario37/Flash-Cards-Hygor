@@ -25,44 +25,38 @@ criaCartao(
 )
 
 criaCartao(
-    'brazil',
-    'pergunta',
-    'resposta'
+    'paraná',
+    'Qual é a capital do Paraná',
+    'Curitiba'
 )
 
 criaCartao(
-    'brazil',
-    'pergunta',
-    'resposta'
+    'paraná',
+    'Que festa anual celebra a cultura ucraniana em Prudentópolis',
+    'A Festa Nacional do Strogonoff.'
 )
 
 criaCartao(
-    'brazil',
-    'pergunta',
-    'resposta'
+    'paraná',
+    'Qual é o nome do festival de teatro famoso de Curitiba?',
+    'O Festival de Teatro de Curitiba.'
 )
 
 criaCartao(
-    'brazil',
-    'pergunta',
-    'resposta'
+    'paraná',
+    'Que tipo de dança típica do litoral paranaense é Patrimônio Imaterial do estado?',
+    'A Dança do Fandango'
 )
 
 criaCartao(
-    'brazil',
-    'pergunta',
-    'resposta'
+    'paraná',
+    'Que grande área verde em Curitiba homenageia a comunidade japonesa',
+    'O Jardim Botânico de Curitiba.'
 )
 
 criaCartao(
-    'brazil',
-    'pergunta',
-    'resposta'
-)
-
-criaCartao(
-    'brazil',
-    'pergunta',
-    'resposta'
+    'paraná',
+    'Qual é o principal rio que forma as Cataratas do Iguaçu?',
+    'O Rio Iguaçu.'
 )
 
