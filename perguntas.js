@@ -1,5 +1,5 @@
 criaCartao(
-    'categoria',
+    'brazil',
     'pergunta',
     'resposta'
 )
@@ -7,61 +7,61 @@ criaCartao(
 
 
 criaCartao(
-    'categoria',
+    'brazil',
     'pergunta',
     'resposta'
 )
 
 criaCartao(
-    'categoria',
+    'brazil',
     'pergunta',
     'resposta'
 )
 
 criaCartao(
-    'categoria',
+    'brazil',
     'pergunta',
     'resposta'
 )
 
 criaCartao(
-    'categoria',
+    'brazil',
     'pergunta',
     'resposta'
 )
 
 criaCartao(
-    'categoria',
+    'brazil',
     'pergunta',
     'resposta'
 )
 
 criaCartao(
-    'categoria',
+    'brazil',
     'pergunta',
     'resposta'
 )
 
 criaCartao(
-    'categoria',
+    'brazil',
     'pergunta',
     'resposta'
 )
 
 criaCartao(
-    'categoria',
+    'brazil',
     'pergunta',
     'resposta'
 )
 
 criaCartao(
-    'categoria',
+    'brazil',
     'pergunta',
     'resposta'
 )
 
 criaCartao(
-    'categoria',
+    'brazil',
     'pergunta',
     'resposta'
 )
