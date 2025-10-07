@@ -9,7 +9,7 @@ criaCartao(
 criaCartao(
     'brazil',
     'Quem foi o primeiro presidente do Brasil após a Proclamação da República em 1889?'
-    'foi Marechal Deodoro da Fonseca, que assumiu em 1889.'
+    'foi Marechal Deodoro da fonseca'
 )
 
 criaCartao(
